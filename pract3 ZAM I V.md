@@ -112,6 +112,11 @@ BNF =
 E = B | B E
 B = 0 | 1
 ```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="2024-11-12_11-41-52.png">
+  <source media="(prefers-color-scheme: light)" srcset="2024-11-12_11-41-52.png">
+  <img alt="YOUR-ALT-TEXT" src="2024-11-12_11-41-52.png">
+</picture>
 
 ## Задача 4
 
