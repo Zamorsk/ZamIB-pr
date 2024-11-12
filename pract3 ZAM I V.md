@@ -127,9 +127,9 @@ P = ( E ) | ()
 C = { E } | {}
 ```
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="2024-11-12_11-54.png">
-  <source media="(prefers-color-scheme: light)" srcset="2024-11-12_11-54.png">
-  <img alt="YOUR-ALT-TEXT" src="2024-11-12_11-54.png">
+  <source media="(prefers-color-scheme: dark)" srcset="2024-11-12_11-48-54.png">
+  <source media="(prefers-color-scheme: light)" srcset="2024-11-12_11-48-54.png">
+  <img alt="YOUR-ALT-TEXT" src="2024-11-12_11-48-54.png">
 </picture>
 
 ## Задача 5
