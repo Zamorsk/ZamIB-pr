@@ -28,7 +28,7 @@
       {
         age: 19,
         group: "ИКБО-6-20",
-        name: "Тимофеев Н.Р."
+        name: "Заморский И.В."
       }
     ],
     subject: "Конфигурационное управление"
@@ -62,7 +62,7 @@ let students =
       [ { age = 19, group = makeGroup 4, name = "Иванов И.И." }
       , { age = 18, group = makeGroup 5, name = "Петров П.П." }
       , { age = 18, group = makeGroup 5, name = "Сидоров С.С." }
-      , { age = 20, group = makeGroup 6, name = "Тимофеев Н.Р." }
+      , { age = 20, group = makeGroup 6, name = "Заморский И.В." }
       ]
 
 let subject = "Конфигурационное управление"
