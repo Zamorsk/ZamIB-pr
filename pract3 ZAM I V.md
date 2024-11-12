@@ -141,7 +141,11 @@ T = F | T "&" F
 F = "~" F | "(" E ")" | VAR
 VAR = x | y | z
 ```
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" 2024-11-12_11-55-01.png">
+  <source media="(prefers-color-scheme: light)" srcset="2024-11-12_11-55-01.png">
+  <img alt="YOUR-ALT-TEXT" src="2024-11-12_11-55-01.png">
+</picture>
 ## Полезные ссылки
 
 Configuration complexity clock: https://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html
